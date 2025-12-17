@@ -11,3 +11,5 @@ Contohnya seperti: GET http://localhost:3000/products yang akan muncul adalah
         "created_at": "2025-12-13T13:40:11.000Z"
     }
 ]
+
+![image alt](https://github.com/Ayusef9/nodejs-crud-restapi/blob/main/Screenshot%202025-12-13%20201959.png?raw=true)
